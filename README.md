@@ -5,6 +5,15 @@ Esperemos que os lo paseis bien!
 
 Fefy
 
+### Comandos
+* Clonar Repositorio: ```git clone <repository-url>```
+* Crear Rama: ```git checkout -b <branch-name>```
+* Añadir Cambios: ```git add <file-name>```
+* Commit Cambios: ```git commit -m "commit message"```
+* Push Rama: ```git push origin <branch-name>```
+* Pull Cambios: ```git pull origin main```
+* Resolver Conflictos: Edit manualmente, despues ```git add```, ```git commit```
+
 
 ### Enlaces de interes
 
