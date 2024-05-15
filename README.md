@@ -4,3 +4,12 @@ Usaremos este repositorio para practicar todo tipo de commandos en git y como us
 Esperemos que os lo paseis bien!
 
 Fefy
+
+
+### Enlaces de interes
+
+* [Juego para aprender Git](https://learngitbranching.js.org/?locale=es_ES)
+* [GitHub ‘cheat sheet’](https://github.github.com/training-kit/downloads/es_ES/github-git-cheat-sheet/)
+* [Tutorial de Git en terminal](https://tutorials-codebar-io.translate.goog/version-control/command-line/tutorial.html?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)
+* [Consejos para solucionar errores frecuentes de Git](https://ohshitgit.com/es)
+* [Mensajes de commit profesionales](http://tomasdelvechio.github.io/old/440/)
